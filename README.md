@@ -1,3 +1,3 @@
-# Message-Oranted-comminicatio-JMS
-Message Oranted comminication impimantaion with JMS API
- # The project needs Glassfish server - JMS
+# Message-Oranted-communication-JMS
+Message Oriented communication implantation with JMS API
+ # The project needs a Glassfish server - JMS project
